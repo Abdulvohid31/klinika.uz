@@ -1,9 +1,10 @@
 import React from 'react';
+import HeaderAuth from '../Components/HeaderAuth';
 
 const SingIn = () => {
   return (
     <div>
-      singin
+      <HeaderAuth/>
     </div>
   )
 }

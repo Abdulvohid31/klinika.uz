@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const SingIn = () => {
   return (
@@ -8,4 +8,4 @@ const SingIn = () => {
   )
 }
 
-export default SingIn
+export default SingIn;
